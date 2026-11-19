@@ -1,5 +1,39 @@
 [
   {
+    "id": "oklahoma-smash-burger",
+    "name": "Oklahoma Fried Onion Smash Burger",
+    "time": 20,
+    "portions": 2,
+    "images": ["pics/OklahomaFriedOnionSmashBurger/main.jpg"],
+    "ingredients": {
+      "darált hús (marha, vagy disznó + marha kevert)": "400–500 g (4 gombóc)",
+      "hagyma (vörös vagy fehér)": "1 nagy fej",
+      "cheddar lapkasajt": "4 szelet",
+      "briós buci": "2 db",
+      "majonéz": "3 ek",
+      "ketchup": "1 ek",
+      "mustár": "1 tk",
+      "uborkalé": "1 tk",
+      "csemegeuborka": "1–2 db"
+    },
+    "spices": ["só", "bors"],
+    "steps": [
+      [
+        "Formázol 4 egyenlő, laza húsgombócot, felszeleteled a hagymát, felaprítasz 1–2 csemegeuborkát, és kikevered a szószt (3 ek majonéz, 1 ek ketchup, 1 tk mustár, 1 tk uborkalé, aprított uborka).",
+        "A disznó + marha kevert hús gyakran még jobb, mint a sima marha; a gombócokat hagyd lazán."
+      ],
+      "Bekészítesz mindent karnyújtásnyira: a szószt, a lapkasajtot, a pirított hagymát és a sütőpapírt.",
+      "Megpirítod a hagymát (vörös vagy fehér is jó), majd félreteszed.",
+      "A briós bucikat kevés vajjal megpirítod, és félreteszed.",
+      [
+        "A húsgombócokat kilapítod (smash), rárakod a pirított hagymát, megsózod és megborsozod, megfordítod, majd rárakod a cheddar lapkasajtot.",
+        "Sütőpapírral könnyebb lapítani, és minden legyen előkészítve, mert gyorsan megy a sütés."
+      ],
+      "Összeállítod a burgereket a megpirított bucikkal, a szósszal és a sajtos-hagymás húsokkal."
+    ],
+    "process": []
+  },
+  {
     "id": "bulgur-csirke",
     "name": "Tejszínes-curry-s csirkés bulgur",
     "time": 30,
